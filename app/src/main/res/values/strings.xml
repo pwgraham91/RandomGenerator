@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RandomCounter</string>
+    <string name="toast_button">Toast</string>
+    <string name="count_button">Count</string>
+    <string name="random_button">Random</string>
+
+    <string name="random_title">Here\'s a random number</string>
+</resources>
